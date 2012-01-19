@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2dai</string>
+    <item name="loc_pull_int" type="integer">1000</item>
+    <string name="media_not_available">Cannot Access External Storage.</string>
+    <string name="loc_hist_log">location_history.log</string>
+    <string name="http_hint">Please Enter a URL</string>
+    <string name="default_url">http://blog.falcondai.com</string>
+    <string name="photo_dir">/photo_lab2/</string>
+
+</resources>
